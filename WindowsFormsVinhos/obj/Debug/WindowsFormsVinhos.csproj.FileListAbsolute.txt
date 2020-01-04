@@ -1,0 +1,13 @@
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\WindowsFormsVinhos.exe.config
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\WindowsFormsVinhos.exe
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\WindowsFormsVinhos.pdb
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\obj\Debug\WindowsFormsVinhos.csprojResolveAssemblyReference.cache
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\obj\Debug\WindowsFormsVinhos.Form1.resources
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\obj\Debug\WindowsFormsVinhos.Properties.Resources.resources
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\obj\Debug\WindowsFormsVinhos.csproj.GenerateResource.Cache
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\obj\Debug\WindowsFormsVinhos.exe
+C:\Projetos C#\CursoWebApi\WindowsFormsVinhos\WindowsFormsVinhos\obj\Debug\WindowsFormsVinhos.pdb
